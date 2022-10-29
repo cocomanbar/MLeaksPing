@@ -1,0 +1,11 @@
+platform :ios, '10.0'
+
+target 'MLeaksPing_Example' do
+  pod 'MLeaksPing', :path => '../'
+
+  target 'MLeaksPing_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

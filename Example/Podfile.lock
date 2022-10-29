@@ -1,0 +1,16 @@
+PODS:
+  - MLeaksPing (1.0.0)
+
+DEPENDENCIES:
+  - MLeaksPing (from `../`)
+
+EXTERNAL SOURCES:
+  MLeaksPing:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MLeaksPing: dd86410df9cac13590624318274b9357cc71df3e
+
+PODFILE CHECKSUM: 8fd4ae41d63d273a856ba74c0a91bb7920d71050
+
+COCOAPODS: 1.11.3

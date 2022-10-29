@@ -1,0 +1,6 @@
+framework module MLeaksPing {
+  umbrella header "MLeaksPing-umbrella.h"
+
+  export *
+  module * { export * }
+}
